@@ -9,3 +9,15 @@ h1 {
 li a {
     color: green;
 }
+
+.footer {
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: right;
+    background-color: #dddddd;
+    padding: 10px 10px 5px 10px;
+    margin-left: -8px;
+}
+
